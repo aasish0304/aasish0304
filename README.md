@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML and Full Stack Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 "Open to offering guidance and support in "**Python Development**
 
 - 💬 Ask me about **Python and Full stack**
 
